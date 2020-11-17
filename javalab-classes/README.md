@@ -11,7 +11,7 @@ que nos facilita el trabajo y reduce el código a escribir_
 ## MVC
 _Para ver más facilmente que de que trata MVC tenemos la siguiente imágen_
 <p align="center">
-  <img width="792" height="302" src="https://github.com/Andresblz/Programacion-III-USAL/blob/main/javalab-classes/MVCJava.jpg">
+  <img width="592" height="302" src="https://github.com/Andresblz/Programacion-III-USAL/blob/main/javalab-classes/MVCJava.jpg">
 </p>
 
 
