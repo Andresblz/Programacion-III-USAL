@@ -6,7 +6,7 @@ el método MVC en Java_
 _Para la realización de los ejercicios utilizamos una biblioteca
 que nos facilita el trabajo y reduce el código a escribir_
 
-*[biblioteca.jar](http://maxus.fis.usal.es/HOTHOUSE/p3/index.html) - Biblioteca usada
+* [biblioteca.jar](http://maxus.fis.usal.es/HOTHOUSE/p3/index.html) - Biblioteca usada
 
 ## Actualizaciones
 _Actualmente subiendo ejercicios_
