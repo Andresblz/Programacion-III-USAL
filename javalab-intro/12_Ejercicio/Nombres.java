@@ -5,6 +5,14 @@ import java.util.Scanner;
 public class Nombres{
     public static void main(String[] args){
         String nombre;
+        /*
+         * 'final' hace que el valor no pueda
+         * modificarse, algunos usos de esto pueden ser:
+         * 
+         * final int LIMITE=5;
+         * final int LIMITE;
+         * static final double PI = 3.1415926;
+         */
         final int TOTAL = 2;
 
         Scanner sc = new Scanner(System.in);
