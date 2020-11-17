@@ -12,7 +12,7 @@ public class IVAArray{
          * final int LIMITE;
          * static final double PI = 3.1415926;
          */
-        final float IVA = 0.04f;
+        final float IVA = 0.21f;                    // 21% de IVA
         String[] frutas = {"manzanas", "peras"};
         float[] numKilos = new float[frutas.length];
         float[] precioKilo = new float[frutas.length];
