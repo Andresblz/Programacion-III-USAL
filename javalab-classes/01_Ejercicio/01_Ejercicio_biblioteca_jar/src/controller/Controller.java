@@ -11,9 +11,7 @@ public class Controller {
     }
 
     public void calcularSuma() {
-
        m.setResultado(m.getNum1()+m.getNum2());
-        
     }
     
     public int getN1(){
@@ -23,8 +21,7 @@ public class Controller {
     public int getN2(){
         return m.getNum2();
     }
-    
-    
+   	
     public int getResul(){
         return m.getResultado();
     }
